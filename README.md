@@ -88,7 +88,7 @@ This tool is intended for **educational and development purposes only**. Always 
 ## CONNECT WITH ME :
 
 [![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=google-chrome)](https://whomrx.pages.dev)<br>
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=rss)](https://whomrxhackers.blogspot.com)<br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)<br>
 [![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)<br>
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)<br>
 [![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)<br>
